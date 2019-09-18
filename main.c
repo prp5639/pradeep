@@ -2,8 +2,6 @@
 
 main()
 {
-big3();
 pal();
 fact();
 }
-
