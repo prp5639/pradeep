@@ -3,7 +3,7 @@
 pal()
 {
     int n, reversedInteger = 0, remainder, originalInteger;
-    printf("\nEnter an integer: ");
+    printf("\n\nEnter an integer: ");
     scanf("%d", &n);
     originalInteger = n;
     // reversed integer is stored in variable 
